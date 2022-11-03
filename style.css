@@ -123,16 +123,23 @@ button:hover{
 }
 
 .bxs-dashboard{
-    font-size: 48px;
+    font-size: 36px;
+}
+
+.dash-icon{
+    font-size: 18px;
+}
+
+li{
     display: flex;
-    align-items: center;
+    gap: 28px;
 }
 
 .title{
     font-size: 28px;
     font-weight: 700;
     display: flex;
-    align-items: center;
+    gap: 12px;
 }
 
 .sidebar .pages ul{
